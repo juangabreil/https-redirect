@@ -1,0 +1,27 @@
+{
+  "name": "https-redirect",
+  "version": "0.0.1",
+  "main": "lib/https-redirect.js",
+  "description": "Force request to run over ssl.",
+  "homepage": "https://github.com/juangabreil",
+  "bugs": "https://github.com/juangabreil/https-redirect/issues",
+  "author": {
+    "name": "Juan Gabriel Jimenez",
+    "email": "juangabreil@gmail.com",
+    "url": "https://twitter.com/juangabreil"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juangabreil/https-redirect"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-watch": "~0.5.0",
+    "grunt-jasmine-node-coverage": "~0.1.6"
+  }
+}
